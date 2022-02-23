@@ -1,4 +1,4 @@
-package com.orlandolorenzosviluppo.clients.fraud.response;
+package com.orlandolorenzosviluppo.clients.fraud;
 
 public record FraudCheckResponse(Boolean isFraudster) {
 }

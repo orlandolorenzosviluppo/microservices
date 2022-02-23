@@ -1,6 +1,6 @@
 package com.orlandolorenzosviluppo.fraud.controller;
 
-import com.orlandolorenzosviluppo.clients.fraud.response.FraudCheckResponse;
+import com.orlandolorenzosviluppo.clients.fraud.FraudCheckResponse;
 import com.orlandolorenzosviluppo.fraud.service.FraudCheckService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
